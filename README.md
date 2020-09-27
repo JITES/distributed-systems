@@ -83,3 +83,9 @@ Load balance on http header, decision based on http-header
  - Host based
  - Path based
  - Header based
+ 
+ 
+Reference and material
+
+https://landing.google.com/sre/books/
+
