@@ -3,6 +3,8 @@
 
 # Topics to be covered
 
+![alt text](https://github.com/JITES/ExtremeSystemDesign/blob/master/System Design.png)
+
  1. Loadbalancer
  2. Caching
  
