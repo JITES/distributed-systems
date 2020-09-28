@@ -26,6 +26,9 @@
    
 # Load Balancer Type
 
+![alt text](https://github.com/JITES/ExtremeSystemDesign/blob/master/LoadBalancer.png)
+
+
 **Load balancer at Networking Layer L4**
 Load balance on the packets which you are receiving.
 
