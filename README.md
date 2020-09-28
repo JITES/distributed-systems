@@ -26,7 +26,7 @@
    
 # Load Balancer Type
 
-![alt text](https://github.com/JITES/ExtremeSystemDesign/blob/master/LoadBalancer.png)
+![alt text](https://github.com/JITES/ExtremeSystemDesign/blob/master/LBMindMap.png)
 
 
 **Load balancer at Networking Layer L4**
