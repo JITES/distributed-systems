@@ -1,8 +1,6 @@
 
 # Extreme System Design
 
-# Topics to be covered
-
 ![alt text](https://github.com/JITES/ExtremeSystemDesign/blob/master/sys-design.jpg)
 
  1. Loadbalancer
@@ -88,7 +86,7 @@ Load balance on http header, decision based on http-header
  - Header based
  
  
-Reference and material
+Reference and credits
 
 https://landing.google.com/sre/books/
-
+https://systemdesignmanual.com
