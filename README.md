@@ -4,20 +4,18 @@
 # Topics to be covered
 
  1. Loadbalancer
- 2. Algo
- 3. Caching
- 4. Redis
-
- 5. Database
- 6. RDBMS design and working
- 7. Indexes
+ 2. Caching
+ 
+ 3. Database
+ 4. RDBMS design and working
+ 5. Indexes
     * How indexing works in RDBMS?
- 8. ACID vs BASE
- 9. Partitioning and Sharding Data
+ 6. ACID vs BASE
+ 7. Partitioning and Sharding Data
     * Consistent Hashing
     * Strong vs Eventual consistency 
- 10. CAP Theorem 
- 11. RDBMS vs NoSql
+ 8. CAP Theorem 
+ 9. RDBMS vs NoSql
     * Types of NoSQL
       * Key/Value
       * Wide column
