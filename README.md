@@ -21,6 +21,7 @@
       * Wide column
       * Document based
       * Graph based
+ 10. How internet works?
    
 # Load Balancer Type
 
