@@ -1,5 +1,5 @@
 
-# Extreme System Design
+# Distributed System - components
 
 ![alt text](https://github.com/JITES/ExtremeSystemDesign/blob/master/sys-design.jpg)
 
